@@ -10,8 +10,8 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐_Website-zamaswap.com-00D9FF?style=for-the-badge)](https://www.zamaswap.com/)
-[![Whitepaper](https://img.shields.io/badge/📄_Whitepaper-Read-00D9FF?style=for-the-badge)](https://www.zamaswap.com/pdf/white-paper.pdf)
-[![X](https://img.shields.io/badge/𝕏_Follow-@ZamaSwap-00D9FF?style=for-the-badge)](https://x.com/ZamaSwap/)
-[![Discord](https://img.shields.io/badge/💬_Discord-Join-00D9FF?style=for-the-badge)](https://discord.com/invite/3TDFT7GebV/)
-[![Telegram](https://img.shields.io/badge/✈️_Telegram-Chat-00D9FF?style=for-the-badge)](https://t.me/ZamaSwap/)
+[![Website](https://img.shields.io/badge/🌐_Website-zamaswap.com-00D9FF?style=for-the-badge)](https://www.fheswap.app/)
+[![Whitepaper](https://img.shields.io/badge/📄_Whitepaper-Read-00D9FF?style=for-the-badge)](https://www.fheswap.app/pdf/white-paper.pdf)
+[![X](https://img.shields.io/badge/𝕏_Follow-@ZamaSwap-00D9FF?style=for-the-badge)](https://x.com/FHESwap)
+[![Discord](https://img.shields.io/badge/💬_Discord-Join-00D9FF?style=for-the-badge)](https://discord.gg/3TDFT7GebV)
+[![Telegram](https://img.shields.io/badge/✈️_Telegram-Chat-00D9FF?style=for-the-badge)](https://t.me/FHESwap)
